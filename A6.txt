@@ -1,0 +1,1 @@
+Esta es el archivo 6 para la practica de comandos GIT
