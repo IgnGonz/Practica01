@@ -1,4 +1,6 @@
 Esta es el archivo 6 para la practica de comandos GIT
 
 
-Prueba de cambio en archivo 6
+Prueba de cambio en A 6
+
+Se genera cambio adicional - torandersonq
