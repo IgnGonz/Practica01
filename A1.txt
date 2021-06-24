@@ -1,1 +1,4 @@
 Archivo de prueba 1
+
+Para las pruebas de comandos GIT - agregado por torandersonqm
+
